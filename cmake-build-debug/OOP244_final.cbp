@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="OOP244_final"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/yuseon/CLionProjects/OOP244_final/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/yuseon/CLionProjects/OOP244_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/yuseon/CLionProjects/OOP244_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/yuseon/CLionProjects/OOP244_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/yuseon/CLionProjects/OOP244_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/yuseon/CLionProjects/OOP244_final/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/yuseon/CLionProjects/OOP244_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/yuseon/CLionProjects/OOP244_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/yuseon/CLionProjects/OOP244_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/yuseon/CLionProjects/OOP244_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/yuseon/CLionProjects/OOP244_final/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/yuseon/CLionProjects/OOP244_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/yuseon/CLionProjects/OOP244_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/yuseon/CLionProjects/OOP244_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/yuseon/CLionProjects/OOP244_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="OOP244_final">
+				<Option output="/Users/yuseon/CLionProjects/OOP244_final/cmake-build-debug/OOP244_final" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yuseon/CLionProjects/OOP244_final/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/yuseon/CLionProjects/OOP244_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 OOP244_final"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/yuseon/CLionProjects/OOP244_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/yuseon/CLionProjects/OOP244_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/yuseon/CLionProjects/OOP244_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="OOP244_final/fast">
+				<Option output="/Users/yuseon/CLionProjects/OOP244_final/cmake-build-debug/OOP244_final" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yuseon/CLionProjects/OOP244_final/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/yuseon/CLionProjects/OOP244_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 OOP244_final/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/yuseon/CLionProjects/OOP244_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/yuseon/CLionProjects/OOP244_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/yuseon/CLionProjects/OOP244_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/yuseon/CLionProjects/OOP244_final/Allocator.cpp">
+			<Option target="OOP244_final"/>
+		</Unit>
+		<Unit filename="/Users/yuseon/CLionProjects/OOP244_final/Date.cpp">
+			<Option target="OOP244_final"/>
+		</Unit>
+		<Unit filename="/Users/yuseon/CLionProjects/OOP244_final/Date.h">
+			<Option target="OOP244_final"/>
+		</Unit>
+		<Unit filename="/Users/yuseon/CLionProjects/OOP244_final/ErrorState.cpp">
+			<Option target="OOP244_final"/>
+		</Unit>
+		<Unit filename="/Users/yuseon/CLionProjects/OOP244_final/ErrorState.h">
+			<Option target="OOP244_final"/>
+		</Unit>
+		<Unit filename="/Users/yuseon/CLionProjects/OOP244_final/Perishable.cpp">
+			<Option target="OOP244_final"/>
+		</Unit>
+		<Unit filename="/Users/yuseon/CLionProjects/OOP244_final/Perishable.h">
+			<Option target="OOP244_final"/>
+		</Unit>
+		<Unit filename="/Users/yuseon/CLionProjects/OOP244_final/Product.cpp">
+			<Option target="OOP244_final"/>
+		</Unit>
+		<Unit filename="/Users/yuseon/CLionProjects/OOP244_final/Product.h">
+			<Option target="OOP244_final"/>
+		</Unit>
+		<Unit filename="/Users/yuseon/CLionProjects/OOP244_final/iProduct.h">
+			<Option target="OOP244_final"/>
+		</Unit>
+		<Unit filename="/Users/yuseon/CLionProjects/OOP244_final/ms5_tester.cpp">
+			<Option target="OOP244_final"/>
+		</Unit>
+		<Unit filename="/Users/yuseon/CLionProjects/OOP244_final/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
