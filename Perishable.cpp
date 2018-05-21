@@ -1,10 +1,6 @@
 // Final Project - Milestone 5 
 // Date	2018-04-12
 // Perishable.cpp
-// Yuseon Kang (ID: 146831169)
-// ykang39@myseneca.ca
-// Instructor: Peter Liu
-//
 
 #include "Perishable.h"
 
