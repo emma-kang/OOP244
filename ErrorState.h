@@ -4,12 +4,11 @@
 // Date		2018-03-29
 //
 // Milestone 3
-// Student ID: 146831169
 //
 // Revision History
 // -----------------------------------------------------------
 // Name               Date                 Reason
-// Yuseon Kang		  2018-03-21		   To submit MS3
+// Yuseon Kang	      2018-03-21	   To submit MS3
 /////////////////////////////////////////////////////////////////
 
 #ifndef AMA_ERRORSTATE_H
