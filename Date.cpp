@@ -6,12 +6,11 @@
 // Description
 // 
 // Milestone 1 - Date module 
-// Student ID: 146831169
 //
 // Revision History
 // -----------------------------------------------------------
 // Name               Date                 Reason
-// Yuseon Kang		  2018-03-12		   To submit MS1
+// Yuseon Kang	      2018-03-12           To submit MS1
 // Yuseon Kang        2018-04-12           To submit MS5
 /////////////////////////////////////////////////////////////////
 #include "Date.h"
