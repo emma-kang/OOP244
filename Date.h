@@ -6,12 +6,11 @@
 // Description
 //
 // Date module header file 
-// Student ID: 146831169
 //
 // Revision History
 // -----------------------------------------------------------
 // Name               Date                 Reason
-// Yuseon Kang		  2018-03-12		   To submit MS1
+// Yuseon Kang	      2018-03-12	   To submit MS1
 /////////////////////////////////////////////////////////////////
 #ifndef AMA_DATE_H
 #define AMA_DATE_H
