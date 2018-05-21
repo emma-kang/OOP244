@@ -1,3 +1,4 @@
+// Yuseon Kang 
 #ifndef AMA_IPRODUCT_H
 #define AMA_IPRODUCT_H
 #include <iostream>
