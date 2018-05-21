@@ -1,9 +1,7 @@
 // Final Project - Milestone 3 - MyProduct and Test Modules
 // Date	2018-03-29
 // Product.h
-// Yuseon Kang (ID: 146831169)
-// ykang39@myseneca.ca
-// Instructor: Peter Liu
+// Yuseon Kang
 //
 
 #ifndef AMA_PRODUCT_H
